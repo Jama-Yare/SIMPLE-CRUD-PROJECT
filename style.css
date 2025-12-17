@@ -1,0 +1,7 @@
+body{font-family:Arial;background:#f4f4f4}
+nav{background:#333;padding:10px}
+nav a{color:#fff;margin:10px;text-decoration:none}
+form,table{background:#fff;padding:20px;margin:20px auto;width:60%}
+input,button{padding:8px;margin:5px}
+table{border-collapse:collapse}
+th,td{border:1px solid #ccc;padding:8px;text-align:center}
